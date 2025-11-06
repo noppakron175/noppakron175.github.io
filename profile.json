@@ -1,0 +1,30 @@
+{
+  "name": "Noppakron Surin",
+  "tagline": "Embedded Systems Engineer & AI Enthusiast",
+  "about": "I’m passionate about combining electronics, control systems, and artificial intelligence to build innovative solutions.",
+  
+  "socials": {
+    "github": "https://github.com/noppakron175",
+    "linkedin": "https://www.linkedin.com/in/your-linkedin/",
+    "twitter": "https://twitter.com/your-handle",
+    "instagram": "https://instagram.com/your-handle"
+  },
+  
+  "projects": [
+    {
+      "name": "Helmholtz Coil Control System",
+      "description": "Real-time magnetic field control using STM32, MD25HV driver, and MATLAB GUI.",
+      "link": "https://github.com/noppakron175/Helmholtz-Coil-Control"
+    },
+    {
+      "name": "Smart ESP32 Monitoring",
+      "description": "IoT project monitoring ADC sensor data via WiFi using ESP32.",
+      "link": "https://github.com/noppakron175/Final-Project"
+    },
+    {
+      "name": "AI Ingredient Detector",
+      "description": "OCR-based AI system that detects ingredients on Thai product labels.",
+      "link": "https://github.com/noppakron175/test"
+    }
+  ]
+}
